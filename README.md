@@ -42,5 +42,5 @@
 
 ---
 
-<h3 align="center">🔥 _Thanks for visiting my profile!_ 🚀</h3>
+_Thanks for visiting my profile!_ 🚀
 
