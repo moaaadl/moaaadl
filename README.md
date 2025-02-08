@@ -1,16 +1,10 @@
 <h1 align="center">Hi 👋, I'm Moaad</h1>
-<h3 align="center">Front-end Developer | React | JavaScript</h3>
-
+<p align="center">I'm a student 📚 focused on learning Front-End Development and continuously improving my skills. I'm passionate about mastering new technologies and I strive to keep adding valuable knowledge to my stack every day. 😄</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=moaaadl&label=Profile%20Views&color=0e75b6&style=flat" alt="Momo" />
 </p>
 
----
 
-### 👨‍💻 About Me
-- 🎓 I'm a student.
-
----
 
 ### 🛠 Tech Stack
 
