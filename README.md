@@ -8,8 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **MCars Project**
+- 🎓 I'm a student.
 
 ---
 
