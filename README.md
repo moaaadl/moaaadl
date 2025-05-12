@@ -2,7 +2,7 @@
 
 **Front-end Developer & Tech Enthusiast**
 
-I'm a Front-End Development student 📚, passionate about learning and exploring new technologies. Always improving my skills and eager to grow! 
+I'm a Front-End Development student, Coding on Linux to take full control of my environment and optimize my workflow.
 <br><br>
 
 <p align="left">
