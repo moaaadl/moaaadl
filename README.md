@@ -2,7 +2,7 @@
 
 **Front-end Developer & Tech Enthusiast**
 
-I'm a Front-End Development student, Coding on Linux to take full control of my environment and optimize my workflow.
+I'm a Front-End Development student, Coding on Linux to take full control of my environment and optimize my workflow , Always building, always growing ;)
 <br><br>
 
 <p align="left">
