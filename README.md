@@ -27,7 +27,13 @@ I'm a Front-End Development student, Coding on Linux to take full control of my 
 
 ## Contact Me
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1176891976784814171)
-&nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/moaaadl)
+<div align="left">
+  <a href="mailto:moadlobi@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="35" /></a>
+  <a href="https://t.me/moaaadl"><img src="https://img.icons8.com/fluency/48/telegram-app.png" alt="Telegram" height="35"></a>
+  <a href="https://discordapp.com/users/1176891976784814171"><img src="https://skillicons.dev/icons?i=discord" height="35" /></a>
+</div>
+
+
+
+
 
