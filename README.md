@@ -1,16 +1,12 @@
 # MOAAD LEBOUY
 
-**Front-end Developer & Tech Enthusiast**
+**Full Stuck Developer**
 
-I'm a Front-End Development student, Coding on Linux to take full control of my environment and optimize my workflow , Always building, always growing ;)
+I'm a student, Passionate about building projects ;)
 <br><br>
 
 <p align="left">
-  <img alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  &nbsp;
-  <img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  &nbsp;
-  <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="Laravel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
   &nbsp;
   <img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   &nbsp;
@@ -18,11 +14,7 @@ I'm a Front-End Development student, Coding on Linux to take full control of my 
   &nbsp;
   <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   &nbsp;
-  <img alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  &nbsp;
-  <img alt="Arch" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" />
-  &nbsp;
-  <img alt="Neovim" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" />
+  <img alt="Neovim" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 </p>
 
 <br>
