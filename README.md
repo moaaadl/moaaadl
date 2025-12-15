@@ -1,8 +1,6 @@
-# MOAAD LEBOUY
+# MOAAADL
 
-**Full Stuck Developer**
-
-I'm a student, Passionate about building projects ;)
+I'm Moaad Lebouy, a student and passionate about building projects ;)
 <br><br>
 
 <p align="left">
