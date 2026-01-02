@@ -12,7 +12,7 @@ I'm Moaad Lebouy, a student and passionate about building projects ;)
   &nbsp;
   <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   &nbsp;
-  <img alt="Neovim" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+  <img alt="Neovim" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" />
 </p>
 
 <br>
